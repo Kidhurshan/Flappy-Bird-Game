@@ -12,7 +12,7 @@ A basic **Flappy Bird** game clone built using Java and Swing.
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/yourusername/flappy-bird-java.git
+   git clone https://github.com/kidhurshan/flappy-bird-java.git
 2. Compile the code:
    javac src/*.java -d out
 3. Run the game:
