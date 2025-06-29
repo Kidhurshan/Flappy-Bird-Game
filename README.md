@@ -24,14 +24,14 @@ A basic **Flappy Bird** game clone built using Java and Swing.
 
 ## File Structure
 flappy-bird-java/
-#### ├── src/
-#### │   ├── Game.java          # Main method to run the game
-#### │   ├── GameFrame.java     # Sets up the game window
-#### │   ├── GamePanel.java     # Handles rendering and input
-#### │   ├── Gamelogic.java     # Core game logic
-#### │   ├── bird.java          # Bird mechanics
-#### │   └── pipe.java          # Pipe logic
-#### └── README.md              # Documentation
+-├── src/
+-│   ├── Game.java          # Main method to run the game
+-│   ├── GameFrame.java     # Sets up the game window
+-│   ├── GamePanel.java     # Handles rendering and input
+-│   ├── Gamelogic.java     # Core game logic
+-│   ├── bird.java          # Bird mechanics
+-│   └── pipe.java          # Pipe logic
+-└── README.md              # Documentation
 
 ## License
 This project is open-source under the **MIT License**.
