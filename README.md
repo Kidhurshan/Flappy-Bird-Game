@@ -2,7 +2,8 @@
 
 A complete implementation of the classic FlappyBird game using Java Swing and AWT. Experience smooth gameplay with intuitive controls and engaging mechanics.
 
-![FlappyBird Game](src/flappybirdbg.png)
+<img width="1701" height="912" alt="image" src="https://github.com/user-attachments/assets/b864dd9c-265e-4c5f-a011-33de37b45507" />
+
 
 ## 🎮 Features
 
